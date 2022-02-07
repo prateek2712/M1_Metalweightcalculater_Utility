@@ -9,7 +9,7 @@ When you need to know the worth of the metals you're working with, their weight 
 ## High Level Requirements
 * Features of my project
 RID	DESCRIPTION	STATUS
-| HLR1 |	C LANGUAGE|	IMPLEMENTED|
+| HLR1  |C LANGUAGE |IMPLEMENTED|
 |HLR2	|OS WINDOWS	|IMPLEMENTED|
 |HLR3	|OS LINUX	|IMPLEMENTED|
 |HLR4	|HARDDISK	|IMPLEMENTED|
