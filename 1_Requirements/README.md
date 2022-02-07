@@ -17,10 +17,14 @@ RID	DESCRIPTION	STATUS
 |HLR5	|RAM 4GB	|IMPLEMENTED|
 
 
-| Left-aligned | Center-aligned | Right-aligned |
+| RID	       | DESCRIPTION    | STATUS        |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+|HLR2	       | OS WINDOWS	    | IMPLEMENTED   |
+|HLR3	       | OS LINUX	    | IMPLEMENTED   |
+|HLR4	       | HARDDISK	    | IMPLEMENTED   |
+|HLR5	       | RAM 4GB	    | IMPLEMENTED   |
 ## Low Level Requirements
 * how each feature is implimented
 * Linkage High Level to Low Level
