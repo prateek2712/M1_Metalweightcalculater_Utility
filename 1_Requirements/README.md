@@ -8,6 +8,12 @@ When you need to know the worth of the metals you're working with, their weight 
 
 ## High Level Requirements
 * Features of my project
+RID	DESCRIPTION	STATUS
+HLR1	C LANGUAGE	IMPLEMENTED
+HLR2	OS WINDOWS	IMPLEMENTED
+HLR3	OS LINUX	IMPLEMENTED
+HLR4	HARDDISK	IMPLEMENTED
+HLR5	RAM 4GB	IMPLEMENTED
 
 ## Low Level Requirements
 * how each feature is implimented
@@ -16,12 +22,12 @@ When you need to know the worth of the metals you're working with, their weight 
 
 ## SWOT
 * Strengths:
-a) Simple & Easy to Use.
+* a) Simple & Easy to Use.
 
-b) Highly Secure, Scalable & Reliable.
+* b) Highly Secure, Scalable & Reliable.
 
 * Weakness:
-a) Complicated to operate.
+* a) Complicated to operate.
 
 ## 4W's & 1H
 * Who
