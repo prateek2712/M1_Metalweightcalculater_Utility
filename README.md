@@ -1,4 +1,4 @@
-# m1_spork-app-uti-game-
+# M1_METALWEIGHTCALCULATER_UTL
 * Repository for mini project
 
 ## Milestone -1
