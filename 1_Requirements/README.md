@@ -27,6 +27,8 @@ Opportunities: We all know that we do most of our calculations with a pen and pa
 
 * Treats: 
 In today's dynamic world, slower progress in innovation is always a threat to the organisation.
+* Very basic design with no GUI. Hence would not attract young generation to make use of it.
+* Many other similar applications available.
 
 ## 4W's & 1H
 * Who
