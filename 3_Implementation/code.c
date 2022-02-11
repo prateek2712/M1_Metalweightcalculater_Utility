@@ -17,7 +17,7 @@ jump:
     printf("Please choose the metal type:\n\nM = Mild Steel\nC = Cast Iron\nA = Aluminum\n");
     char metal, bar, name1[] = "Mild Steel", name2[] = "Cast Iron", name3[] = "Aluminum", name[15];
     char n1[] = "Flat Bar", n2[] = "Square Bar", n3[] = "Round Bar", n4[] = "Angle Bar", n5[] = "Hex Bar", b_t[15];
-    int quantity, c;
+    int quantity ;//, c;
     float bar_length, bar_width, bar_width2, bar_depth, vol, weightkg, weightlbs;
     scanf("\n%c", &metal);
 
@@ -63,7 +63,7 @@ jump3:
     printf("Calculate the approximate weight of %d %s %s(s)\n", quantity, name, b_t);
     char m[2];
     printf("Please specify the measurement unit you will use for all dimensions:\nmm = millimeters\ncm = centimeters\nm = metres\nin = inches\nft = feet\n");
-    scanf("\n %s", m);
+    scanf(" %s", m);
     for (int i = 0; i < 2; i++)
     {
         m[i] = tolower((unsigned char)m[i]);
