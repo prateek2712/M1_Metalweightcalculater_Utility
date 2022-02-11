@@ -7,4 +7,3 @@
 * Requirements
 * Design
 * Test Plan
-https://api.codiga.io/project/31044/status/svg
