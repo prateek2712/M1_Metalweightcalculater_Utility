@@ -50,19 +50,17 @@ This project is implemented to do the metal weight calculations by adding the le
 
 # DETAIL REQUIREMENTS
 ## High Level Requirements-
-| ID	       | DESCRIPTION    | STATUS        |
-| :---         |     :---:      |          ---: |
-|HLR2	       | OS WINDOWS	    | IMPLEMENTED   |
-|HLR3	       | OS LINUX	    | IMPLEMENTED   |
-|HLR4	       | HARDDISK	    | IMPLEMENTED   |
-|HLR5	       | RAM 4GB	    | IMPLEMENTED   |
-## Low Level Requirements
-
-
-
 |ID	        | Description	                                |Status
 | :---         |     :---:      |          ---: |
-|LL01	|Calculates different metal types from the given options	    |Implemented|
-|LL02	|Calculates in specified mesurement units	    |Implemented|
-|LL03	|Calculates bar_type specified by user from the given options	    |Implemented|
-|LL04	|Give results in both Kgs and lbs 	|Implemented|
+|HL01	|Calculates different metal types from the given options	    |Implemented|
+|HL02	|Calculates in specified mesurement units	    |Implemented|
+|HL03	|Calculates bar_type specified by user from the given options	    |Implemented|
+
+## Low Level Requirements
+
+| ID	       | DESCRIPTION    | STATUS        |
+| :---         |     :---:      |          ---: |
+|LLR2	       | OS WINDOWS	    | IMPLEMENTED   |
+|LLR3	       | OS LINUX	    | IMPLEMENTED   |
+|LLR4	       | Give results of total weight and individual bars	    | IMPLEMENTED   |
+|LLR5	       | Give results in both kg and lbs	    | IMPLEMENTED   |
