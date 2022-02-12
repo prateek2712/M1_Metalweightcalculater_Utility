@@ -60,7 +60,7 @@ This project is implemented to do the metal weight calculations by adding the le
 
 | ID	       | DESCRIPTION    | STATUS        |
 | :---         |     :---:      |          ---: |
-|LLR2	       | OS WINDOWS	    | IMPLEMENTED   |
-|LLR3	       | OS LINUX	    | IMPLEMENTED   |
-|LLR4	       | Give results of total weight and individual bars	    | IMPLEMENTED   |
-|LLR5	       | Give results in both kg and lbs	    | IMPLEMENTED   |
+|LLR1	       | OS WINDOWS	    | IMPLEMENTED   |
+|LLR2	       | OS LINUX	    | IMPLEMENTED   |
+|LLR3	       | Give results of total weight and individual bars	    | IMPLEMENTED   |
+|LLR4	       | Give results in both kg and lbs	    | IMPLEMENTED   |
