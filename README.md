@@ -73,7 +73,7 @@ This project is implemented to do the metal weight calculations by adding the le
 
 # Implementation
 
-
+[!(https://github.com/prateek2712/M1_Metalweightcalculater_Utility/blob/main/6_ImagesAndVideos/1.jpg)]
 
 
 
