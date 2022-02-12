@@ -1,17 +1,12 @@
 # Test Plan
 
-* For every feature, defien a test case
-* How to run that feature
 
-* Define expected behaviour
-
-* Capture the actual result
 
 
 
 
 # DETAIL REQUIREMENTS
-## Table no:  High Level Requirements-
+## Table no:1  High Level Requirements-
 | Test ID	   | DESCRIPTION    | Exp I/P     |  Exp O/P| Actual Out | Type of Test      |
 | :---         |     :---:      | :---:       |:---:    |   :---:    |       ---:        |
 |H_01	       | Mild steel	    |Length=14cm,width=16cm,Thickness=45cm  |0.9495kgs         |0.9495kgs     |Mild steel + Flat bar |
@@ -19,7 +14,7 @@
 |H_03	       | Aluminium	    |Length=100cm,width=101cm,Thickness=102cm             |2.7815kgs         |2.7815kgs            |Aluminium +Flat bar     |
 
 
-## Table no:  Low Level Requirements-
+## Table no:2  Low Level Requirements-
 | Test ID	   | DESCRIPTION    | Exp I/P     |  Exp O/P| Actual Out | Type of Test      |
 | :---         |     :---:      | :---:       |:---:    |   :---:    |       ---:        |
 |L_01	       |Square bar 	            |Length=301cm,width=302cm,Thickness=303cm              |214.0742kgs         |214.0742kgs            |Mild Steel + Square |
