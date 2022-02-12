@@ -71,9 +71,7 @@ This project is implemented to do the metal weight calculations by adding the le
 |LLR4	       | Give results in both kg and lbs	    | IMPLEMENTED   |
 
 
-# Implementation
 
-[!(https://github.com/prateek2712/M1_Metalweightcalculater_Utility/blob/main/6_ImagesAndVideos/1.jpg)]
 
 
 
