@@ -1,5 +1,10 @@
 # M1_METALWEIGHTCALCULATER_Utility
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b5f386282bee4577969b959ff66f85bc)](https://www.codacy.com/gh/prateek2712/M1_Metalweightcalculater_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prateek2712/M1_Metalweightcalculater_Utility&amp;utm_campaign=Badge_Grade)
+
+
+Code Grade | Code Quality Score |Codacy Badge | 
+---------|------------|---------|
+![Code Grade]https://api.codiga.io/project/31044/status/svg| ![Code Quality Score]https://api.codiga.io/project/31044/score/svg| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b5f386282bee4577969b959ff66f85bc)](https://www.codacy.com/gh/prateek2712/M1_Metalweightcalculater_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prateek2712/M1_Metalweightcalculater_Utility&amp;utm_campaign=Badge_Grade) |
+
 * Repository for mini project
 
 ## Milestone -1
