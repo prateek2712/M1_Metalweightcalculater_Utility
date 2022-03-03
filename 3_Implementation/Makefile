@@ -1,11 +1,25 @@
 #Target : Dependencies
 #<TAB>commands
 
-Build : 3_Implementation
-	gcc code.c -lm 
+PROJ_NAME = Metalweightcalculater 
+SRC = src/code.c  inc/header.h  src/test.c 
+ifdef OS
+	RM = del /q
+	FixPath= $(subst /,\,$l)
+	EXEC=exe 
+else
+	ifeq ($(shell uname), Linux)
+		RM = rm -rf
+		FixPath = $Linux
+		EXEC = out
+	endif
+endif	
+
+Build :$(SRC)
+	gcc $(SRC) -Iinc -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
 Run : Build
-	./a.out
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
-Clean: 
-	rm -rf *.o *.out *.s *.i *.txt
+Clean :
+	$(RM) $(call FixPath,$(BUILD_DIR)/*.out)
