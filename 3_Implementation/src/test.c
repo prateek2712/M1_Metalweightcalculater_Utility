@@ -1,6 +1,6 @@
 /**
  * @file test.c
- * @author your name (you@domain.com)
+ * @author your name (PrateekChandra)
  * @brief 
  * @version 0.1
  * @date 2022-03-01
