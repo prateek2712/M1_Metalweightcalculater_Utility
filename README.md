@@ -2,12 +2,12 @@
 
 
 Code Grade | Code Quality Score |Codacy Badge | Build badge|
----------|------------|---------|
-![Code Grade](https://api.codiga.io/project/31044/status/svg)| ![Code Quality Score](https://api.codiga.io/project/31044/score/svg)| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b5f386282bee4577969b959ff66f85bc)](https://www.codacy.com/gh/prateek2712/M1_Metalweightcalculater_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prateek2712/M1_Metalweightcalculater_Utility&amp;utm_campaign=Badge_Grade) |[![Build](https://github.com/prateek2712/M1_Metalweightcalculater_Utility/actions/workflows/Build.yml/badge.svg)](https://github.com/prateek2712/M1_Metalweightcalculater_Utility/actions/workflows/Build.yml)|
+|---------|------------|---------| ------ |
+|![Code Grade](https://api.codiga.io/project/31044/status/svg)| ![Code Quality Score](https://api.codiga.io/project/31044/score/svg)| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b5f386282bee4577969b959ff66f85bc)](https://www.codacy.com/gh/prateek2712/M1_Metalweightcalculater_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prateek2712/M1_Metalweightcalculater_Utility&amp;utm_campaign=Badge_Grade) |[![Build](https://github.com/prateek2712/M1_Metalweightcalculater_Utility/actions/workflows/Build.yml/badge.svg)](https://github.com/prateek2712/M1_Metalweightcalculater_Utility/actions/workflows/Build.yml)|
 
 * Repository for mini project
 
-## Milestone -1
+
 # INTRODUCTION
 * It’s essential to know how much your metal order weighs Material weight calculators eliminate human mistakes while providing an easy and accessible way to determine exact weights by inputting material piece measurements.
 When you need to know the worth of the metals you're working with, their weight can tell you what you need to know. And, using a metal weight calculator to figure out this information can make your job a whole lot easier to get the costs of the metal per pieces.
