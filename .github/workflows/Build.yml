@@ -1,10 +1,10 @@
-name: Build
+name: C/C++ CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ code ]
   pull_request:
-    branches: [ main ]
+    branches: [ code ]
 
 jobs:
   build:
@@ -13,5 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make run
-      run : make -C 3_Implementation/
+    - name: Install CPPCheck
+      run: sudo apt -y install cppcheck
+    - name: Run cppcheck
+      run: cppcheck 3_Implementation
